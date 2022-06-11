@@ -1,4 +1,4 @@
-# Master_Thesis
+# Early_ICU_mortality_prediction_with_deep_FL
 
 This repository houses the code used in our thesis, "Early prediction of the risk of ICU mortality with Deep Federated Learning". All code is our own apart from the notebook *mimic_iii_preprocessing.ipynb*, which we took and adapted from Mondrejevski et al. (2022) and is used to preprocess the raw data.
 
